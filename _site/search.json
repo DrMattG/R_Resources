@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2020-12-16T14:19:41+01:00"
+    },
+    {
+      "path": "index.html",
+      "title": "R resources",
+      "description": "Here is a list of R resources. Please feel free to suggest more or better alternatives. Click on the \"R Resources\" tab.\n",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2020-12-16T14:19:42+01:00"
+    }
+  ],
+  "collections": []
+}

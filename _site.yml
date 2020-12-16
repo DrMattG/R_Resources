@@ -1,0 +1,12 @@
+name: "R_Resources"
+title: "R resources"
+description: |
+  R resources
+output_dir: "_site"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "R Resources"
+      href: slides/R_Resources.html
+output: distill::distill_article
