@@ -2,7 +2,7 @@ name: "R_Resources"
 title: "R resources"
 description: |
   R resources
-output_dir: "_docs"
+output_dir: "docs"
 navbar:
   right:
     - text: "Home"

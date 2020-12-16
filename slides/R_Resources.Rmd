@@ -81,7 +81,7 @@ The slides were made using the [{revealjs} package](https://github.com/rstudio/r
 
 # The End
 
-There is no excuse to start coding
+There is no excuse not to start coding
 
 ![](https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif)
 
